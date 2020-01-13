@@ -1,0 +1,130 @@
+[
+  {
+    "cardId": 0,
+    "cardPath": "fas fa-cat"
+  },
+  {
+    "cardId": 1,
+    "cardPath": "fas fa-crow"
+  },
+  {
+    "cardId": 2,
+    "cardPath": "fas fa-dog"
+  },
+  {
+    "cardId": 3,
+    "cardPath": "fas fa-dove"
+  },
+  {
+    "cardId": 4,
+    "cardPath": "fas fa-dragon"
+  },
+  {
+    "cardId": 5,
+    "cardPath": "fas fa-feather"
+  },
+  {
+    "cardId": 6,
+    "cardPath": "fas fa-fish"
+  },
+  {
+    "cardId": 7,
+    "cardPath": "fas fa-frog"
+  },
+  {
+    "cardId": 8,
+    "cardPath": "fas fa-hippo"
+  },
+  {
+    "cardId": 9,
+    "cardPath": "fas fa-horse"
+  },
+  {
+    "cardId": 10,
+    "cardPath": "fas fa-horse-head"
+  },
+  {
+    "cardId": 11,
+    "cardPath": "fas fa-kiwi-bird"
+  },
+  {
+    "cardId": 12,
+    "cardPath": "fas fa-otter"
+  },
+  {
+    "cardId": 13,
+    "cardPath": "fas fa-paw"
+  },
+  {
+    "cardId": 14,
+    "cardPath": "fas fa-spider"
+  },
+  {
+    "cardId": 15,
+    "cardPath": "fas fa-seedling"
+  },
+  {
+    "cardId": 16,
+    "cardPath": "fas fa-apple-alt"
+  },
+  {
+    "cardId": 17,
+    "cardPath": "fas fa-bone"
+  },
+  {
+    "cardId": 18,
+    "cardPath": "fas fa-bread-slice"
+  },
+  {
+    "cardId": 19,
+    "cardPath": "fas fa-candy-cane"
+  },
+  {
+    "cardId": 20,
+    "cardPath": "fas fa-carrot"
+  },
+  {
+    "cardId": 21,
+    "cardPath": "fas fa-cheese"
+  },
+  {
+    "cardId": 22,
+    "cardPath": "fas fa-egg"
+  },
+  {
+    "cardId": 23,
+    "cardPath": "fas fa-hamburger"
+  },
+  {
+    "cardId": 24,
+    "cardPath": "fas fa-hotdog"
+  },
+  {
+    "cardId": 25,
+    "cardPath": "far fa-lemon"
+  },
+  {
+    "cardId": 26,
+    "cardPath": "fas fa-pepper-hot"
+  },
+  {
+    "cardId": 27,
+    "cardPath": "fas fa-pizza-slice"
+  },
+  {
+    "cardId": 28,
+    "cardPath": "fas fa-dice-six"
+  },
+  {
+    "cardId": 29,
+    "cardPath": "fas fa-heart"
+  },
+  {
+    "cardId": 30,
+    "cardPath": "fas fa-ghost"
+  },
+  {
+    "cardId": 31,
+    "cardPath": "fas fa-gamepad"
+  }
+]

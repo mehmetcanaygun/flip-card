@@ -1,0 +1,14 @@
+export const GET_IMAGES = "GET_IMAGES";
+export const SET_GRID = "SET_GRID";
+export const TOGGLE_START = "TOGGLE_START";
+export const TOGGLE_BOARD = "TOGGLE_BOARD";
+export const TOGGLE_OVER = "TOGGLE_OVER";
+export const FLIP_CARD = "FLIP_CARD";
+export const NUM_OF_FLIPPED = "NUM_OF_FLIPPED";
+export const REMOVE_FLIPPED_CARDS = "REMOVE_FLIPPED_CARDS";
+export const ADD_MATCH = "ADD_MATCH";
+export const INC_MOVE = "INC_MOVE";
+export const INC_MATCH = "INC_MATCH";
+export const RESET_GAME = "RESET_GAME";
+export const SET_USER_TIME = "SET_USER_TIME";
+export const SET_LOADING = "SET_LOADING";
